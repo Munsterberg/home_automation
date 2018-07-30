@@ -109,5 +109,6 @@ home_automation_venv/
 ### Python Patch ###
 .venv/
 
+devices.db
 
 # End of https://www.gitignore.io/api/python
